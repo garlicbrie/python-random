@@ -40,6 +40,3 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
         return [1, 5]
 
 '''                
-
-
-6BF15DB668762B0DFFDC58CF8792CF9D
